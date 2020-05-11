@@ -1,0 +1,6 @@
+# Script for adding version control to already existing R project
+# 
+# When an R project is created with no version control and I wish to add one, first select this R project file in Finder
+# then Finder > Services > New Terminal at Folder
+git init # Return
+git add . # Return
